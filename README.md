@@ -13,7 +13,7 @@ To play, simply download the .py and run it with your local version of python.
 Alternatively, you can pull to your desired location using git:
 
 
-  git pull https://github.com/yousefakbar/battleship.git
+     git pull https://github.com/yousefakbar/battleship.git
 
 and launch it from there.
 
